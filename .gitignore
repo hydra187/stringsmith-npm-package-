@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Test and coverage output
+coverage/
+.nyc_output/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tarball package files from npm pack
+*.tgz

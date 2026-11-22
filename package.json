@@ -1,0 +1,28 @@
+{
+  "name": "stringsmith",
+  "version": "1.0.0",
+  "description": "Small, dependable string helpers. Zero dependencies.",
+  "main": "src/index.js",
+  "keywords": [
+    "string",
+    "utilities",
+    "slugify",
+    "truncate",
+    "case",
+    "helper",
+    "zero-dependency"
+  ],
+  "author": "Aridaman",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/**/*.test.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ]
+}
